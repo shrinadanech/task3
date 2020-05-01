@@ -1,0 +1,23 @@
+#assigning elements to different lists
+l1=['hi',1,2,3,4]
+
+l1
+
+l2=[-8,4,5,6,-18]
+
+l2
+
+#accessing elements from a tuple
+t1=("c","c++",1,5,6)
+
+print(t1[0])
+
+print(t1[4])
+
+#deleting dictionary elements
+dict={'A':"Isha",'B':"Aisha",'C':"Alia",'D':"Priya"}
+
+del dict['C']
+
+dict
+
